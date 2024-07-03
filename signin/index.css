@@ -47,7 +47,9 @@
     height: 76vh;
     position: relative;
 }
-
+button{
+    cursor: pointer;
+}
 form {
     width: 100%;
 
